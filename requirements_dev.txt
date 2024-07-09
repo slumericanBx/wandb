@@ -70,3 +70,4 @@ azure-storage-blob
 cloudpickle
 responses
 kfp
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
