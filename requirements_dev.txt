@@ -70,3 +70,4 @@ azure-storage-blob
 cloudpickle
 responses
 kfp
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
