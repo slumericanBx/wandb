@@ -70,3 +70,4 @@ azure-storage-blob
 cloudpickle
 responses
 kfp
+jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
